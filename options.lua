@@ -1,0 +1,3 @@
+-- Loaded before the rest of the configuration.
+-- Uncomment to disable line numbers.
+-- vim.opt.number = false

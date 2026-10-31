@@ -1,0 +1,3 @@
+-- Loaded after plugin setup.
+-- Uncomment to map <leader>w to saving the current buffer.
+-- vim.keymap.set("n", "<leader>w", "<cmd>write<cr>", { desc = "Save buffer" })
