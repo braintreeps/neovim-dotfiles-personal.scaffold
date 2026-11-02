@@ -1,5 +1,9 @@
 # Neovim personal configuration
 
+The clean way to make our neovim-dotfiles yours. It's a reference scaffold for tweaking braintreeps/neovim-dotfiles.
+
+Use taste, judgement, and don't spoil a pair's UX. Prefer to contribute additive improvements upstream.
+
 Install [neovim-dotfiles](https://github.com/braintreeps/neovim-dotfiles) first. This scaffold adds personal options, keymaps, and plugins.
 
 Install this repository at `nvim/lua/personal`. The destination must not already exist. Both commands use `$XDG_CONFIG_HOME`, falling back to `$HOME/.config` when it is unset.
