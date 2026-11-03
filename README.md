@@ -13,7 +13,7 @@ Clone directly into the personal directory:
 ```sh
 config_dir=${XDG_CONFIG_HOME:-$HOME/.config}
 mkdir -p "$config_dir/nvim/lua"
-git clone https://github.com/cosgroveb/neovim-dotfiles-personal.scaffold.git "$config_dir/nvim/lua/personal"
+git clone https://github.com/braintreeps/neovim-dotfiles-personal.scaffold.git "$config_dir/nvim/lua/personal"
 ```
 
 Or, from an existing checkout's root, symlink it into the personal directory:
